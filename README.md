@@ -1,6 +1,4 @@
-# data-science-entry-test
-NTUPace (SCTP) Advanced Professional Certificate in Data Science & Artificial Intelligence (Part-Time)
-Course Dates: 10 January 2026 to 6 June 2026
+## NTUPace (SCTP) Advanced Professional Certificate in Data Science & Artificial Intelligence (Assessment)
 
 ## Submission for Gwendalynn Lim Wan Ting
 
