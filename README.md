@@ -1,6 +1,5 @@
 ## NTUPace (SCTP) Advanced Professional Certificate in Data Science & Artificial Intelligence (Assessment)
-
-## Submission for Gwendalynn Lim Wan Ting
+Submission for Gwendalynn Lim Wan Ting
 
 
 ## Answers to Problems
