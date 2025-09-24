@@ -4,7 +4,7 @@ Course Dates: 10 January 2026 to 6 June 2026
 
 ## Submission for Gwendalynn Lim Wan Ting
 
-![You were asking about my car?](https://share.google/6NaIiiLBhKBOLBP5p)
+![You were asking about my car?]([https://share.google/6NaIiiLBhKBOLBP5p](https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_720x406x2/dam/pnr/2020/products/History-of-the-Porsche-Targa/Ur-911/b-HDI-66401_1_911-2,0-Targa-(Mj.-1967).jpg/jcr:content/b-HDI%2066401_1_911%202,0%20Targa%20(Mj.%201967).jpg))
 
 # (SCTP) Advanced Professional Certificate in Data Science and AI - Technical Assessment
 
